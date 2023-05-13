@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "849385363580",
+    "project_id": "scisco-service",
+    "storage_bucket": "scisco-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849385363580:android:ab76ebd89b18b9969ed1f9",
+        "android_client_info": {
+          "package_name": "com.scisco_service"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849385363580-hv6la41ar0sppri9di2qn8qljv8bjsdq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu4iT8qN6iBPHjxIaxQKBmNOyzObAwwtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849385363580-hv6la41ar0sppri9di2qn8qljv8bjsdq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
